@@ -2,9 +2,9 @@
   "name": "Steamtacao",  
   "short_name": "Steamtação",  
   "icons": [{  
-        "src": "images/icon-192x192.png",  
+        "src": "img/ico.jpg",  
         "sizes": "192x192",
-        "type": "image/png"
+        "type": "image/jpeg"
       }],  
   "start_url": "/",  
   "display": "standalone",  
