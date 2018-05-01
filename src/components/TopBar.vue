@@ -6,7 +6,7 @@
         :to="{
           name: 'home',
         }">
-        WP Vue
+        Steamtação
       </router-link>
     </h1>
   </nav>
