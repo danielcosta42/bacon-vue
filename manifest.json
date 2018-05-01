@@ -2,7 +2,7 @@
   "name": "Steamtacao",  
   "short_name": "Steamtação",  
   "icons": [{  
-        "src": "img/ico.jpg",  
+        "src": "/src/assets/img/ico.jpg",  
         "sizes": "192x192",
         "type": "image/jpeg"
       }],  
